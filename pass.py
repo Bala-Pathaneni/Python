@@ -18,7 +18,7 @@ else:
     print("b is lesser than a")
 
 # example 3
-word = "Stechies"
+word = "Stechiess"
 for value in word:
     if value == 'e':
         pass
